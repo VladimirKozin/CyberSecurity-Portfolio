@@ -13,7 +13,7 @@ Here you will find detailed documentation for each of my cybersecurity projects,
 1.  **Network Port & Firewall Audit**
     * **Description:** A practical case study on auditing local network ports and firewall configurations on personal workstations (macOS/Windows) to identify potential vulnerabilities and ensure defensive measures are in place.
     * **Skills Demonstrated:** Network reconnaissance, port scanning (local), firewall analysis, basic security hardening, understanding of attack surface.
-    * **[Project Details](Network-Port-Audit/README.md)** <-- **Вот здесь очень важно! Эта ссылка ведет к твоему первому проекту.**
+    * **[Project Details](Network-Port-Audit/README.md)** 
 
 2.  **[Placeholder for Nmap Advanced Scan Case]**
     * **Description:** (Will be filled after we learn advanced Nmap techniques)
