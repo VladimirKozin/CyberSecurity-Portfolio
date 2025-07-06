@@ -37,14 +37,12 @@ I am gaining experience with a variety of cybersecurity tools and technologies, 
 
 I maintain a separate repository with a curated list of valuable cybersecurity resources:
 
-* [Awesome Hacking Resources (My Fork)](https://github.com/ВАШ_ЮЗЕРНЕЙМ/Awesome-Hacking-Resources) <-- **Обязательно замени ВАШ_ЮЗЕРНЕЙМ на свой реальный юзернейм GitHub!**
-
----
+* [Awesome Hacking Resources (My Fork)](https://github.com/VladimirKozin/Awesome-Hacking-Resources)) 
 
 ## 📧 Contact
 
 Feel free to connect with me!
-* **GitHub:** [https://github.com/ВАШ_ЮЗЕРНЕЙМ](https://github.com/ВАШ_ЮЗЕРНЕЙМ) <-- **Обязательно замени ВАШ_ЮЗЕРНЕЙМ на свой реальный юзернейм GitHub!**
+* **GitHub:** (https://github.com/VladimirKozin)
 
 ---
 
